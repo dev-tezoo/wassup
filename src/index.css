@@ -1,5 +1,21 @@
 @import "tailwindcss";
 
+@font-face {
+  font-family: font1;
+  src: url(/public/StoryScript-Regular.ttf);
+}
+
+@font-face {
+  font-family: font2;
+  src: url(/public/GravitasOne-Regular.ttf);
+}
+
+@font-face {
+  font-family: font3;
+  src: url(/public/Anton-Regular.ttf);
+}
+
 body{
   background: #000;
+  color: #fff;
 }
